@@ -1,3 +1,7 @@
 .description {
     font-style: italic;
 }
+
+h2 {
+    background-color: lightcoral;
+}
